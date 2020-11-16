@@ -12225,11 +12225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\portal randkowy\\portalrandkowy\\portalrandkowy.csproj",
+      "projectUniqueName": "E:\\portal randkowy\\portalrandkowy\\portalrandkowy.csproj",
       "projectName": "portalrandkowy",
-      "projectPath": "e:\\portal randkowy\\portalrandkowy\\portalrandkowy.csproj",
+      "projectPath": "E:\\portal randkowy\\portalrandkowy\\portalrandkowy.csproj",
       "packagesPath": "C:\\Users\\toled\\.nuget\\packages\\",
-      "outputPath": "e:\\portal randkowy\\portalrandkowy\\obj\\",
+      "outputPath": "E:\\portal randkowy\\portalrandkowy\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\toled\\AppData\\Roaming\\NuGet\\NuGet.Config",
